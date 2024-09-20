@@ -1,4 +1,4 @@
-//Esta linha importa a classe Scanner, que permite a leitura de entrada do usuário (números e texto) a partir do console.//
+//Esta linha importa a classe Scanner, que permite a leitura de entrada do usuário (números e texto) a partir do console//
 import java.util.Scanner; 
 
 public class Main { //Define a classe Main que é o ponto de entrada do programa ao executar.//
